@@ -1,0 +1,16 @@
+# Sample site navigation links
+
+- title: Codela
+  url: https://www.codela.io
+- title: Blog
+  url: /
+# - title: Posts
+#   url: /posts/
+- title: Categories
+  url: /categories/
+# - title: Tags
+#   url: /tags/
+# - title: Recipes
+#   url: /recipes/
+- title: Search
+  url: /search/

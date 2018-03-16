@@ -17,8 +17,8 @@ google_fonts:
 disqus:
   shortname: "codela"
 
-google_analytics: "UA-2011187-2"
-google_site_verification: "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y"
+google_analytics: "UA-88049200-1"
+# google_site_verification: "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y"
 
 logo: "/images/codela-logo-square-padding.png"
 twitter:

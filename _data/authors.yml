@@ -27,3 +27,13 @@ Ebru Türün:
     - title: Angellist
       url: https://angel.co/ebru-turun
       icon: fab fa-angellist
+Alpay Doğrul:
+  name: Alpay Doğrul
+  picture: /images/alpaydo-photo.jpg
+  links:
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/alpay-d-8810ba83/
+      icon: fab fa-linkedin
+    - title: Angellist
+      url: https://angel.co/alpay-dogrul
+      icon: fab fa-angellist
